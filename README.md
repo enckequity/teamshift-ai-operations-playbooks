@@ -14,12 +14,14 @@ public walk-in office in those cities.
 
 ## Central PA AI Consultant Pages
 
+- [Central PA AI consultant](https://teamshift.io/services/central-pa-ai-consultant)
 - [AI consultant Lancaster PA](https://teamshift.io/services/ai-consultant-lancaster-pa)
 - [AI consultant Harrisburg PA](https://teamshift.io/services/ai-consultant-harrisburg-pa)
 - [AI consultant York PA](https://teamshift.io/services/ai-consultant-york-pa)
 
 ## Public City Notes
 
+- [Central PA AI consultant note](https://enckequity.github.io/teamshift-ai-operations-playbooks/central-pa-ai-consultant.html)
 - [Lancaster AI consulting services note](https://enckequity.github.io/teamshift-ai-operations-playbooks/lancaster-ai-consulting-services.html)
 - [Harrisburg AI consulting services note](https://enckequity.github.io/teamshift-ai-operations-playbooks/harrisburg-ai-consulting-services.html)
 - [York AI consulting services note](https://enckequity.github.io/teamshift-ai-operations-playbooks/york-ai-consulting-services.html)
