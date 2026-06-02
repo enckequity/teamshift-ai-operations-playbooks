@@ -23,6 +23,7 @@ public walk-in office in those cities.
 - [Lancaster AI consulting services note](https://enckequity.github.io/teamshift-ai-operations-playbooks/lancaster-ai-consulting-services.html)
 - [Harrisburg AI consulting services note](https://enckequity.github.io/teamshift-ai-operations-playbooks/harrisburg-ai-consulting-services.html)
 - [York AI consulting services note](https://enckequity.github.io/teamshift-ai-operations-playbooks/york-ai-consulting-services.html)
+- [Central PA AI consultant alternatives note](https://enckequity.github.io/teamshift-ai-operations-playbooks/central-pa-ai-consultant-alternatives.html)
 
 ## Playbooks
 
