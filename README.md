@@ -34,6 +34,7 @@ public walk-in office in those cities.
 - [Website plus AI receptionist setup](website-ai-receptionist-local-service.md)
 - [Human review gates for local-service AI workflows](human-review-gates.md)
 - [Local authority submission copy](local-authority-submission-copy.md)
+- [Citation builder campaign workflow](citation-builder-campaign-workflow.md)
 
 ## Source Pages
 
